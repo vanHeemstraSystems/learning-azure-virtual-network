@@ -1,5 +1,7 @@
 # 300 - Azure Virtual Network Reverse Engineering
 
+Podcast: [Azure Virtual Network Reverse Engineering](https://notebooklm.google.com/notebook/52f43b8f-3daa-4e3f-b377-c339956c7bcb)
+
 ## From Azure Portal to Network Packets - A Complete Breakdown
 
 A comprehensive deconstruction of how Azure Virtual Network works, from what you click in the portal down to how packets are routed, isolated, and processed at the physical network layer.
